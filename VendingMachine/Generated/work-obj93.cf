@@ -1,0 +1,7 @@
+v 4
+file / "C:\Users\samie\VHDPlus\Projects\VendingMachine\VendingMachine.vhd" "a8c8e1621e4fd9f2ae2ea51916c0781c602c95b7" "20241213170214.785":
+  entity chocolatemachine at 1( 0) + 0 on 13;
+  architecture behavioral of chocolatemachine at 19( 675) + 0 on 14;
+file / "C:\Users\samie\VHDPlus\Projects\VendingMachine\VendingMachine_tb.vhd" "bccd9da1df18e061d2080eb82a466df0e4f32736" "20241213170214.785":
+  entity tb_chocolatemachine at 1( 0) + 0 on 11;
+  architecture behavioral of tb_chocolatemachine at 7( 100) + 0 on 12;

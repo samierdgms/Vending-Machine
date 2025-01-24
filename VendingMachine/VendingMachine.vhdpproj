@@ -1,0 +1,12 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="ChocolateMachine.vcd" />
+    <File Include="VendingMachine.vhd" />
+    <File Include="VendingMachine_tb.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>VendingMachine_tb.vhd</HardwareStartPath>
+    <SelectedFpga>MAX1000</SelectedFpga>
+    <IoVoltage>3.3V</IoVoltage>
+  </PropertyGroup>
+</Project>
